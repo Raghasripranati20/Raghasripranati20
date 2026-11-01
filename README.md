@@ -1,121 +1,116 @@
-<h1 align="center">Hi 👋, I'm Ragha Sri Pranati </h1>
-<h3 align="center">Integrated M.Tech Software Engineering Student </h3>
+# 👩‍💻 Raghasripranati Daggubati | Personal Portfolio
 
-<p align="center">
-  <a href="http://www.linkedin.com/in/raghasripranati-daggubati-51b350344">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/Raghasripranati20">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://drive.google.com/file/d/1v6qYUeyudpI8Zfvfl9fW7KOo4z0gs4FD/view?usp=drive_link">
-    <img src="https://img.shields.io/badge/Resume-Download-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
-  </a>
-</p>
+Welcome to my personal portfolio repository! This project showcases my technical skills, professional background, projects, and experience in data analytics, data engineering, and cloud technologies.
 
----
+## 🌐 Live Portfolio
 
-## 👩‍💻 About Me
+Explore my portfolio to learn more about my work, technical expertise, and projects.
 
-- 🎓 Integrated M.Tech in Software Engineering at **VIT**
-- 📊 Interested in **Data Analytics, Machine Learning, Business Intelligence, and AI**
-- 🌱 Currently learning **Advanced Machine Learning & Data Engineering**
-- 💡 Passionate about solving real-world problems using data
-- 📫 Reach me on **LinkedIn**
+**Portfolio:** [http://127.0.0.1:5500/raghasripranati-portfolio/index.html]
 
----
+## 👩‍💼 About Me
 
-## 🚀 Technical Skills
+I am an Integrated M.Tech Software Engineering graduate from VIT-AP University with an interest in Data Analytics, Data Engineering, and Cloud Technologies.
 
-### 💻 Languages
-<p>
-<img src="https://skillicons.dev/icons?i=python" />
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-</p>
+I enjoy working with data, building ETL pipelines, developing analytical solutions, and transforming raw data into meaningful insights. I am continuously learning and exploring new technologies to strengthen my technical and problem-solving skills.
 
-### 🛠️ Tools
-<p>
-<img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-</p>
+## 🛠️ Technical Skills
 
-### 📚 Libraries & Frameworks
-<p>
-<img src="https://skillicons.dev/icons?i=python" height="45"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-</p>
+- **Programming:** Python, SQL
+- **Data Analytics:** Power BI,Pandas, NumPy
+- **Data Engineering:** Azure Data Factory, Azure Data Lake Storage Gen2, Azure Databricks, Azure Synapse Analytics
+- **Cloud Technologies:** Microsoft Azure, AWS (Learning) 
+- **Tools:** Git, GitHub, VS Code
 
-### 🤖 Machine Learning
-<p>
-<img src="https://img.shields.io/badge/Logistic%20Regression-00599C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/KNN-2E86C1?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/SVM-8E44AD?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Naive%20Bayes-16A085?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/YOLO-111111?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/GANs-E74C3C?style=for-the-badge"/>
-</p>
+## 🚀 Featured Projects
 
-### 📈 Core Concepts
-- Data Cleaning
-- Exploratory Data Analysis (EDA)
-- Customer Segmentation
-- Trend Analysis
-- Statistical Analysis
-- KPI Reporting
-- Business Intelligence
-- Data Visualization
+### 1. Adventure Works – Azure Data Engineering Project
+- Designed a metadata-driven ETL pipeline using Azure Data Factory.
+- Integrated Azure Data Lake Storage Gen2 for scalable data storage.
+- Used Azure Databricks for data transformation.
+- Implemented Azure Synapse Analytics for analytical querying and reporting.
 
-### 🤝 Soft Skills
-- Communication
-- Analytical Thinking
-- Problem Solving
-- Adaptability
-- Stakeholder Management
+### 2. [Project Name – 2]
+- Add your project description.
+- Mention the technologies used and the problem solved.
+- Include measurable outcomes where applicable.
 
----
+### 3. [Project Name – 3]
+- Add your project overview.
+- Highlight your implementation approach and technical contributions.
 
-## 💼 Positions of Responsibility
+### 4. [Project Name – 4]
+- Describe the project objective and key features.
+- Mention the tools, technologies, and results.
 
-### Computer Society of India (CSI) Monitor | VIT
-**Dec 2021 – Jun 2023**
+## ✨ Portfolio Features
 
-- Coordinated technical events and student engagement activities for **150+ members**, ensuring smooth planning and execution.
-- Led communication and operational coordination across multiple student teams.
-- Improved workflow efficiency and stakeholder engagement through effective collaboration.
-- Supported timely delivery of club initiatives and technical events.
+- Professional introduction and profile section.
+- Dedicated technical skills section.
+- Showcase of four featured projects.
+- Responsive and modern user interface.
+- Smooth animations and interactive elements.
+- Downloadable resume.
+- LinkedIn and GitHub profile integration.
 
----
+## 📂 Repository Structure
 
-## 📄 Resume
+```text
+Portfolio/
+│
+├── public/
+│   ├── images/
+│   └── resume.pdf
+│
+├── src/
+│   ├── components/
+│   ├── assets/
+│   ├── App.jsx
+│   └── App.css
+│
+├── index.html
+├── package.json
+└── README.md
+```
 
-<p align="center">
-<a href="YOUR_RESUME_LINK">
-<img src="https://img.shields.io/badge/View%20Resume-Click%20Here-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
-</a>
-</p>
+*Note: Update this structure to match the actual repository files.*
 
----
+## ⚙️ Run Locally
 
-## 🌐 Connect with Me
+Clone the repository:
 
-<p align="center">
-<a href="http://www.linkedin.com/in/raghasripranati-daggubati-51b350344">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-<a href="YOUR_GITHUB_URL">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-<a href="mailto:raghasri20@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+```bash
+git clone YOUR_GITHUB_REPOSITORY_URL
+```
+
+Navigate to the project directory:
+
+```bash
+cd YOUR_PROJECT_FOLDER
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Start the development server:
+
+```bash
+npm run dev
+```
+
+Open the local URL displayed in your terminal.
+
+## 📬 Connect With Me
+
+- **LinkedIn:** [Raghasripranati Daggubati](https://www.linkedin.com/in/raghasripranati-daggubati/)
+- **GitHub:** [https://github.com/Raghasripranati20]
+- **Email:** [raghasri20@gmail.com]
 
 ---
 
+⭐ Thank you for visiting my portfolio repository!
 
-
+I am always eager to learn, collaborate, and explore opportunities in Data Analytics, Data Engineering, and IT.
