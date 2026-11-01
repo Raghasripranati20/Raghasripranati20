@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
   </a>
    <a href="http://127.0.0.1:5500/raghasripranati-portfolio/index.html">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+     <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Website-purple?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
 </p>
 
