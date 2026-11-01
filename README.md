@@ -1,116 +1,101 @@
-# 👩‍💻 Raghasripranati Daggubati | Personal Portfolio
+# 👩‍💻 Raghasripranati Daggubati
 
-Welcome to my personal portfolio repository! This project showcases my technical skills, professional background, projects, and experience in data analytics, data engineering, and cloud technologies.
+### Data Engineering | Cloud Technologies | Python | SQL | ETL/ELT
 
-## 🌐 Live Portfolio
+<p align="center">
+  <a href="https://www.linkedin.com/in/raghasripranati-daggubati/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:raghasri20@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+  </a>
+   <a href="http://127.0.0.1:5500/raghasripranati-portfolio/index.html">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+  </a>
+</p>
 
-Explore my portfolio to learn more about my work, technical expertise, and projects.
+## 👋 About Me
 
-**Portfolio:** [http://127.0.0.1:5500/raghasripranati-portfolio/index.html]
+I am an Integrated M.Tech graduate in Computer Science and Engineering from Vellore Institute of Technology (VIT), with hands-on project experience in Azure, AWS, Snowflake, and dbt.
 
-## 👩‍💼 About Me
+I have experience working with Python, SQL, PySpark, ETL/ELT pipelines, data transformation, and cloud-based data engineering workflows. I am interested in building scalable data solutions and transforming raw data into structured, analytics-ready information.
 
-I am an Integrated M.Tech Software Engineering graduate from VIT-AP University with an interest in Data Analytics, Data Engineering, and Cloud Technologies.
-
-I enjoy working with data, building ETL pipelines, developing analytical solutions, and transforming raw data into meaningful insights. I am continuously learning and exploring new technologies to strengthen my technical and problem-solving skills.
+- 🎓 Integrated M.Tech – Computer Science & Engineering, VIT (2021–2026)
+- 📊 Interested in Data Engineering and Cloud Technologies
+- ☁️ Exploring Azure, AWS, Snowflake, and modern data platforms
+- 💡 Passionate about data pipelines, data processing, and analytical solutions
 
 ## 🛠️ Technical Skills
 
-- **Programming:** Python, SQL
-- **Data Analytics:** Power BI,Pandas, NumPy
-- **Data Engineering:** Azure Data Factory, Azure Data Lake Storage Gen2, Azure Databricks, Azure Synapse Analytics
-- **Cloud Technologies:** Microsoft Azure, AWS (Learning) 
-- **Tools:** Git, GitHub, VS Code
+| Category | Technologies |
+|---|---|
+| Programming | Python, SQL |
+| Cloud Platforms | Microsoft Azure, AWS |
+| Cloud & Data Engineering | Azure Data Factory, ADLS Gen2, Azure Databricks, Snowflake, dbt, AWS S3 |
+| Data Processing | PySpark, Pandas, NumPy |
+| Data Warehousing & ETL | ETL/ELT, Medallion Architecture, Incremental Loading, SCD Type 2 |
+| Analytics & Visualization | Azure Synapse Analytics, Power BI |
+| Tools | Git, GitHub |
 
 ## 🚀 Featured Projects
 
 ### 1. Adventure Works – Azure Data Engineering Project
-- Designed a metadata-driven ETL pipeline using Azure Data Factory.
-- Integrated Azure Data Lake Storage Gen2 for scalable data storage.
-- Used Azure Databricks for data transformation.
-- Implemented Azure Synapse Analytics for analytical querying and reporting.
 
-### 2. [Project Name – 2]
-- Add your project description.
-- Mention the technologies used and the problem solved.
-- Include measurable outcomes where applicable.
+**Technologies:** Azure Data Factory | ADLS Gen2 | Azure Databricks | PySpark | Azure Synapse Analytics | Power BI
 
-### 3. [Project Name – 3]
-- Add your project overview.
-- Highlight your implementation approach and technical contributions.
+- Designed a metadata-driven ETL pipeline using Azure Data Factory to automate data ingestion from GitHub into Azure Data Lake Storage Gen2.
+- Implemented Bronze–Silver–Gold Medallion Architecture with large-scale data transformations using PySpark in Azure Databricks.
+- Developed data-cleaning workflows involving schema enforcement, data type casting, null handling, duplicate removal, and derived-column generation.
+- Created external tables and SQL views in Azure Synapse Analytics, delivering 50K+ sales records in the Gold layer for Power BI reporting and business analysis.
 
-### 4. [Project Name – 4]
-- Describe the project objective and key features.
-- Mention the tools, technologies, and results.
+### 2. Airbnb – Data Engineering Project
 
-## ✨ Portfolio Features
+**Technologies:** AWS S3 | Snowflake | SQL | dbt | Jinja
 
-- Professional introduction and profile section.
-- Dedicated technical skills section.
-- Showcase of four featured projects.
-- Responsive and modern user interface.
-- Smooth animations and interactive elements.
-- Downloadable resume.
-- LinkedIn and GitHub profile integration.
+- Built an end-to-end ETL/ELT pipeline using AWS S3, Snowflake, SQL, and dbt to process Airbnb bookings, hosts, and listings data.
+- Implemented incremental loading and SCD Type 2 snapshots across three entities to maintain historical records and track data changes.
+- Developed eight dbt models across Bronze, Silver, and Gold layers using SQL, Jinja templating, and reusable macros.
+- Implemented data quality tests for uniqueness, null values, and referential integrity, along with schema management and data lineage tracking.
 
-## 📂 Repository Structure
+### 3. Virtual Fashion Assistant
 
-```text
-Portfolio/
-│
-├── public/
-│   ├── images/
-│   └── resume.pdf
-│
-├── src/
-│   ├── components/
-│   ├── assets/
-│   ├── App.jsx
-│   └── App.css
-│
-├── index.html
-├── package.json
-└── README.md
-```
+**Technologies:** Python | Computer Vision | DeepLab-Xception | Graph Convolutional Networks | Pose Estimation
 
-*Note: Update this structure to match the actual repository files.*
+- Established a CPU-based virtual try-on system using DeepLab-Xception, Graph Convolutional Networks (GCN), pose estimation, and geometric garment warping.
+- Integrated counterfactual editing, physics-based fabric validation, and uncertainty estimation modules.
+- Focused on improving garment-fit assessment and personalized fashion recommendations.
 
-## ⚙️ Run Locally
+## 🎓 Education
 
-Clone the repository:
+**Vellore Institute of Technology (VIT)**  
+Integrated M.Tech – Computer Science & Engineering  
+2021–2026 | 
 
-```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
-```
+## 📜 Certifications
 
-Navigate to the project directory:
+- Build Trustworthy AI Solutions on Microsoft Azure
+- Agile Project Management – HP LIFE
+- Privacy and Security in Online Social Media
+- SQL and Relational Databases
 
-```bash
-cd YOUR_PROJECT_FOLDER
-```
+## 🏆 Leadership & Activities
 
-Install dependencies:
+**Computer Society of India – Monitor | VIT**  
+December 2021 – June 2023
 
-```bash
-npm install
-```
+- Coordinated technical events and student engagement activities for 150+ members.
+- Managed event planning, task allocation, and team collaboration.
+- Led communication and operational coordination across multiple student teams.
 
-Start the development server:
+## 📫 Connect With Me
 
-```bash
-npm run dev
-```
-
-Open the local URL displayed in your terminal.
-
-## 📬 Connect With Me
-
-- **LinkedIn:** [Raghasripranati Daggubati](https://www.linkedin.com/in/raghasripranati-daggubati/)
-- **GitHub:** [https://github.com/Raghasripranati20]
-- **Email:** [raghasri20@gmail.com]
+- **Email:** raghasri20@gmail.com
+- **LinkedIn:** [linkedin.com/in/raghasripranati-daggubati](https://www.linkedin.com/in/raghasripranati-daggubati/)
+- **GitHub:** Explore my repositories to see my projects and technical implementations.
 
 ---
 
-⭐ Thank you for visiting my portfolio repository!
-
-I am always eager to learn, collaborate, and explore opportunities in Data Analytics, Data Engineering, and IT.
+<p align="center">
+  <b>Thanks for visiting my GitHub profile!</b><br/>
+  Always learning, building, and exploring new technologies.
+</p>
